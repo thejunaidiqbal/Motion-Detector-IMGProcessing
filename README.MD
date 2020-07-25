@@ -1,4 +1,4 @@
-# Motion Detector - IMGProcessing:
+# Motion Detector - IMG-Processing:
 In this project, I used Img Processing concepts and apply some filters for enhance and increase the quality of real time image. It detect the real time image using webcam of objects and draw lines. It can't detect stable objects just detect moving things.
 
 ## Author
